@@ -1,5 +1,5 @@
 <?php 
 
-	echo "Teste do git";
+	echo "Ola mundo";
 
 ?>
