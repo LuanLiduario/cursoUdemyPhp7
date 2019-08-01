@@ -1,5 +1,7 @@
 <?php 
 
-	echo "Ola mundo";
+	echo "gerando conflitos";
+	
+	echo "alteração";
 
 ?>
